@@ -26,10 +26,13 @@ header{
     font-size: 40px;
 }
 .heading .logo{
-    color: midnightblue;
     font-family: 'PT Serif', serif;
     font-style: italic; 
 }
+.logo{
+    color: violet;
+}
+
 .info{
     width: 70%;
     color: darkorange;
